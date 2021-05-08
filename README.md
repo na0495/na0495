@@ -1,4 +1,5 @@
 ### My GitHub Stats : <br/>
-- name: na0495 - Readme
-  uses: na0495/waka-readme@v0.1.5
+[![na0495's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=na0495&layout=compact)](https://github.com/na0495/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na0495&layout=compact)](https://github.com/na0495/github-readme-stats)
 
