@@ -1,11 +1,12 @@
 ### Hi there :wave:  
 
 ## :boy: My name Mrabet Saad, I'm 23 yo Software Developer :
-- I have a with a bachelor's Computer engineering.
-- I enjoy being challenged and engaging with projects that require me to work outside my comfort zone and knowledge set
-- as continuing to learn new languages and developmenet techeniques.
+- I have a bachelor's degree in Computer engineering.
+- Programming is my fuel of soual.
+- I enjoy being challenged and engaging with projects that require me to work outside my comfort zone and knowledge set <br>
+  as continuing to learn new languages and developmenet techeniques.
 
-##  &nbsp;Tech Stack
+##  &nbsp;Tech Stack 
 
 ### :computer: Programming language :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
