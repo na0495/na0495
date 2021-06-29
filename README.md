@@ -34,5 +34,10 @@ https://na0495.netlify.app/
 <!-- #### Github Commit Stats :
 ![na0495's GitHub stats](https://github-readme-stats.vercel.app/api?username=na0495&show_icons=true&theme=radical&count_private=true) -->
 
+### 🤝🏻 &nbsp; My linkdin
 
+<p align="center">
+<!--<a href="link"><img src="https://img.shields.io/badge/-link.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white%22/%3E</a>-->
+<a href="https://www.linkedin.com/in/saad-mrabet-978a01188/%22%3E<img src="https://img.shields.io/badge/-Tracy%20Dong-0077B5?style=flat&logo=Linkedin&logoColor=white%22/%3E</a>
+</p>
 
