@@ -35,7 +35,7 @@ https://na0495.netlify.app/
 [![na0495's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=na0495&3&layout=compact)](https://github.com/na0495/github-readme-stats)
 
 #### Github Commit Stats :
-![na0495's GitHub stats](https://github-readme-stats.vercel.app/api?username=na0495&show_icons=true&theme=radical)
+![na0495's GitHub stats](https://github-readme-stats.vercel.app/api?username=na0495&show_icons=true&theme=radical&count_private=true)
 
 
 
