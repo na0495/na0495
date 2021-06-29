@@ -38,8 +38,8 @@
 Build with React :
 https://na0495.netlify.app/
 <br>
-deploy with ! <br>
-[NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
+<!-- deploy with ! <br> -->
+![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 
 ## :bar_chart: Some cool Stats : <br/>
 [![na0495's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=na0495&3&layout=compact)](https://github.com/na0495/github-readme-stats)
@@ -47,6 +47,6 @@ deploy with ! <br>
 <!-- #### Github Commit Stats :
 ![na0495's GitHub stats](https://github-readme-stats.vercel.app/api?username=na0495&show_icons=true&theme=radical&count_private=true) -->
 
-### 🤝🏻 &nbsp; My media 
+<!-- ### 🤝🏻 &nbsp; My media 
 
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp; : Egon#6993
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp; : Egon#6993 -->
