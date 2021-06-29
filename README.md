@@ -27,7 +27,7 @@
 
 ## :bookmark_tabs: Here is my protfolio (Currently on build) :
 
-Build with React Framework :
+Build with React :
 https://na0495.netlify.app/
 
 ## :bar_chart: Some cool Stats : <br/>
