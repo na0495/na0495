@@ -18,9 +18,10 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C++)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)&nbsp;
 
-### :cyclone: Framework :
+### :cyclone: Framework & library :
 
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=laravel)&nbsp;
 
