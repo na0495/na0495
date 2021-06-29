@@ -2,7 +2,7 @@
 
 ## :boy: My name Mrabet Saad, I'm 23 yo Software Developer :
 - I have a bachelor's degree in Computer engineering.
-- Programming is my fuel of soual.
+- Programming is my fuel of soul.
 - I enjoy being challenged and engaging with projects that require me to work outside my comfort zone and knowledge set <br>
   as continuing to learn new languages and developmenet techeniques.
 
