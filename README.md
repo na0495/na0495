@@ -1,4 +1,6 @@
-### Hi there :wave:  
+### Hi there :wave: 
+| | |
+|:-------------------------:|:-------------------------:|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na0495&count_private=true&theme=react)|
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=na0495&" alt="saad" /></p>|
 ## :boy: My name Mrabet Saad, I'm 23 yo Software Developer :
