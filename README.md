@@ -5,6 +5,7 @@
 - Programming is my fuel of soul.
 - I enjoy being challenged and engaging with projects that require me to work outside my comfort zone and knowledge set <br>
   as continuing to learn new languages and developmenet techeniques.
+
 | | |
 |:-------------------------:|:-------------------------:|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na0495&count_private=true&theme=react)|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=na0495&" alt="saad" /></p>|
