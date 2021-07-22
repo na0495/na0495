@@ -40,6 +40,7 @@
 ![Chakra-ui](https://img.shields.io/badge/Chakra--UI-319795?style=plastic&logo=chakra-ui&logoColor=white)&nbsp;
 
 :floppy_disk: Database :
+<br>
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)&nbsp;
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)&nbsp;
