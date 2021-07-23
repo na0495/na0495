@@ -16,6 +16,7 @@
 
 :computer: Programming language :
 <br>
+<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;
@@ -27,6 +28,7 @@
 
 
 :cyclone: Framework & library :
+<br>
 <br>
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white)&nbsp;
@@ -40,6 +42,7 @@
 ![Chakra-ui](https://img.shields.io/badge/Chakra--UI-319795?style=plastic&logo=chakra-ui&logoColor=white)&nbsp;
 
 :floppy_disk: Database :
+<br>
 <br>
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)&nbsp;
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)&nbsp;
