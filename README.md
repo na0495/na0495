@@ -57,8 +57,8 @@ https://na0495.netlify.app/
 <!-- deploy with ! <br> -->
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)&nbsp;
 
-<!-- ## :bar_chart: Some cool Stats : <br/>
-[![na0495's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=na0495&3&layout=compact)](https://github.com/na0495/github-readme-stats) -->
+## :bar_chart: Some cool Stats : <br/>
+[![na0495's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=na0495&3&layout=compact)](https://github.com/na0495/github-readme-stats)
 
 <!-- #### Github Commit Stats :
 ![na0495's GitHub stats](https://github-readme-stats.vercel.app/api?username=na0495&show_icons=true&theme=radical&count_private=true) -->
