@@ -58,12 +58,10 @@ https://na0495.netlify.app/
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)&nbsp;
 
 ## :bar_chart: Some cool Stats : <br/>
-<img style={border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-  } src ="https://github-readme-stats.vercel.app/api/wakatime?username=na0495&3&layout=compact">
- 
+
+
+<p><img style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 150px;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=na0495&3&layout=compact" alt="saad" /></p>
+
 [![na0495's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=na0495&3&layout=compact)](https://github.com/na0495/github-readme-stats)
 
 <!-- #### Github Commit Stats :
