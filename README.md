@@ -60,7 +60,7 @@ https://na0495.netlify.app/
 ## :bar_chart: Some cool Stats : <br/>
 
 
-<p><img style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 150px;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=na0495&3&layout=compact" alt="saad" /></p>
+<p><img style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 150px; display: flex; align-item: center; height: 75px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=na0495&3&layout=compact" alt="saad" /></p>
 
 [![na0495's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=na0495&3&layout=compact)](https://github.com/na0495/github-readme-stats)
 
