@@ -11,17 +11,13 @@
 <br>
 <hr>
 
-<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na0495&count_private=true&theme=react)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=na0495&" alt="saad" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=na0495&count_private=true&theme=react" alt="saad" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=na0495&" alt="saad" />
 
 <hr>
-
 ##  &nbsp;Tech Stack 
-
 :computer: Programming language :
-<br>
-<br>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;
