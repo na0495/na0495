@@ -7,12 +7,15 @@
 - Programming is my fuel of soul.
 - I enjoy being challenged and engaging with projects that require me to work outside my comfort zone and knowledge set <br>
   as continuing to learn new languages and developmenet techeniques.
+  
+<br>
+<hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na0495&count_private=true&theme=react)
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na0495&count_private=true&theme=react)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=na0495&" alt="saad" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=na0495&" alt="saad" /></p>
 
-
+<hr>
 
 ##  &nbsp;Tech Stack 
 
@@ -28,6 +31,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)&nbsp;
 
+<br>
+<hr>
 
 :cyclone: Framework & library :
 <br>
@@ -43,9 +48,13 @@
 ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white)&nbsp;
 ![Chakra-ui](https://img.shields.io/badge/Chakra--UI-319795?style=plastic&logo=chakra-ui&logoColor=white)&nbsp;
 
+<br>
+<hr>
+
 :floppy_disk: Database :
 <br>
 <br>
+
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)&nbsp;
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)&nbsp;
