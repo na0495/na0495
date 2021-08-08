@@ -8,48 +8,26 @@
 - I enjoy being challenged and engaging with projects that require me to work outside my comfort zone and knowledge set <br>
   as continuing to learn new languages and developmenet techeniques.
   
-<br>
 <hr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=na0495&count_private=true&theme=react" alt="saad" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=na0495&" alt="saad" />
 
 <hr>
-##  &nbsp;Tech Stack 
-:computer: Programming language :
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)&nbsp;
+##  &nbsp;Tech Stack :computer: Programming language :
+i'm fluent fluent in programming ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)&nbsp; / ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=plastic&logo=typescript&logoColor=blue)&nbsp and also ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)&nbsp; with out forgiting the basic ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp; & ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)&nbsp; , i also have a basic knowlege on others programing languages as ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)&nbsp; , ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)&nbsp; , ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)&nbsp; and ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)&nbsp;
 
-<br>
 <hr>
 
 :cyclone: Framework & library :
-<br>
-<br>
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white)&nbsp;
-![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white)&nbsp;
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)&nbsp;
-![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white)&nbsp;
-![Chakra-ui](https://img.shields.io/badge/Chakra--UI-319795?style=plastic&logo=chakra-ui&logoColor=white)&nbsp;
 
-<br>
+I'm very familiar in devloping with ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)&nbsp; as backend framework, and also both javascript librarys ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)&nbsp; alongside ![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white)&nbsp; and i got recently introduce into Angular ![Angular](https://img.shields.io/badge/Angular-20232A?style=plastic&logo=react&logoColor=red)&nbsp;, i aslo use to work with ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)&nbsp;
+and ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)&nbsp;, i do some front-end design with ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white)&nbsp; ![Chakra-ui](https://img.shields.io/badge/Chakra--UI-319795?style=plastic&logo=chakra-ui&logoColor=white)&nbsp; ![Angular Material](https://img.shields.io/badge/Angular--Material-319795?style=plastic&logo=angular-material&logoColor=white)&nbsp;, and finaly i m used to work with ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)&nbsp;, ![NPM](https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white)&nbsp; and ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white)&nbsp;
+
 <hr>
 
 :floppy_disk: Database :
-<br>
-<br>
 
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)&nbsp;
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)&nbsp;
