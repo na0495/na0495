@@ -1,12 +1,21 @@
 ### Hi there :wave: 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=na0495&label=Profile%20views&color=0e75b6&style=flat" alt="na0495" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=na0495&label=Profile%20views&color=0e75b6&style=flat" alt="na0495" /> </p> -->
 
 ## :boy: My name Mrabet Saad, I'm 23 yo Software Developer :
 - I have a bachelor's degree in Computer engineering.
 - Programming is my fuel of soul.
 - I enjoy being challenged and engaging with projects that require me to work outside my comfort zone and knowledge set <br>
   as continuing to learn new languages and developmenet techeniques.
+
+
+## :bookmark_tabs: Here is my protfolio :
+Build with React :
+https://mrabet-saad.netlify.app/
+<br>
+!-- deploy with ! <br>
+![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)&nbsp;
+
  
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
@@ -92,8 +101,8 @@ HTML                     2 repos             █░░░░░░░░░░�
 
  Last Updated on 08/09/2021
 <!--END_SECTION:waka-->
-<!-- <hr>
 
+<!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=na0495&count_private=true&theme=react" alt="saad" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=na0495&" alt="saad" />
 
@@ -120,7 +129,7 @@ and ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square
 ## :bookmark_tabs: Here is my protfolio (Currently on build) :
 Build with React :
 https://na0495.netlify.app/
-<br>
+<br> -->
 <!-- deploy with ! <br> -->
 <!-- ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)&nbsp;
 
