@@ -93,9 +93,9 @@ HTML                     2 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
+<!-- **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/na0495/na0495/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/na0495/na0495/main/charts/bar_graph.png)  -->
 
 
  Last Updated on 08/09/2021
