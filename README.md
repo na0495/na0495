@@ -13,7 +13,7 @@
 Build with React :
 https://mrabet-saad.netlify.app/
 <br>
-!-- deploy with ! <br>
+deploy with ! <br>
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)&nbsp;
 
  
