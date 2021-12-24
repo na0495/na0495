@@ -74,10 +74,4 @@ PHP                      2 repos             █░░░░░░░░░░�
 HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/na0495/na0495/main/charts/bar_graph.png) 
-
-
  Last Updated on 04/11/2021
