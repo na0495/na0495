@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=na0495&label=Profile%20views&color=0e75b6&style=flat" alt="na0495" /> </p>
 
 
-<img src="./cool.svg">
+<img height="250" width="500" src="./cool.svg">
 
 ## :boy: My name Mrabet Saad, I'm 24 yo Software engineer :
 - I have a bachelor's degree in Computer engineering.
