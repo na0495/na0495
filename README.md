@@ -7,7 +7,7 @@
   <img height="250" width="600" src="./cool.svg">
 </P>
 
-## :boy: My name Mrabet Saad, I'm 24 yo Software engineer :
+## :boy: My name is Mrabet Saad, and I'm 24 yo Software engineer :
 - I have a bachelor's degree in Computer engineering.
 - Programming is my fuel of soul.
 - I enjoy being challenged and engaging with projects that require me to work outside my comfort zone and knowledge set <br>
