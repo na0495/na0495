@@ -21,8 +21,6 @@ and deploy with Netlify.
 
 <br>
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,7 +56,6 @@ Sunday       186 commits    ██░░░░░░░░░░░░░░░�
 
 ```
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -91,6 +88,3 @@ PHP                      2 repos             ░░░░░░░░░░░�
 
 ```
 
-
- Last Updated on 17/04/2022 18:53:06 UTC
-<!--END_SECTION:waka-->
