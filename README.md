@@ -20,6 +20,6 @@
 
 ## :bookmark_tabs: Here is my protfolio :
 > Build with React :
-https://saad-mrabet.netlify.app/
+https://saad-mrabet.me/
 and deploy with
 [![Netlify Status](https://api.netlify.com/api/v1/badges/77b50415-cf26-49f5-a30f-e25f7d7e6c61/deploy-status)](https://app.netlify.com/sites/saad-mrabet/deploys)
