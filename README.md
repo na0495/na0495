@@ -7,13 +7,19 @@
    <img src="https://komarev.com/ghpvc/?username=na0495&label=Profile%20views&color=0e75b6&style=flat" alt="na0495" />
 </div>
 
-<p align="center">
-<video src="https://user-images.githubusercontent.com/36574492/210647537-6458b69e-6886-4c66-ba3e-9be9de78f044.mp4" width=400 autoplay/>
+<br>
+<div align="center">
+
+  <video 
+    src="https://user-images.githubusercontent.com/36574492/210647537-6458b69e-6886-4c66-ba3e-9be9de78f044.mp4" 
+    width=400 
+    autoplay
+  />
   
-
-
 <!--   <img height="250" width="600" src="./cool.svg"> -->
-</P>
+</div>
+
+<br>
 
 ## :boy: My name is Mrabet Saad, and I'm 24 yo Software engineer :
 - I have a bachelor's degree in Computer engineering.
