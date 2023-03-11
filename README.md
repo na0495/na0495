@@ -20,19 +20,5 @@ https://saad-mrabet.me/
 and deploy with
 [![Netlify Status](https://api.netlify.com/api/v1/badges/77b50415-cf26-49f5-a30f-e25f7d7e6c61/deploy-status)](https://app.netlify.com/sites/saad-mrabet/deploys)
 
-<br>
-<div align="center">
-
-  <video 
-    src="https://user-images.githubusercontent.com/36574492/210647537-6458b69e-6886-4c66-ba3e-9be9de78f044.mp4" 
-    width=350
-    height=350
-    autoplay
-  />
-  
-<!--   <img height="250" width="600" src="./cool.svg"> -->
-</div>
-
-<br>
 
 
