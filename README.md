@@ -21,4 +21,6 @@ and deploy with
 [![Netlify Status](https://api.netlify.com/api/v1/badges/77b50415-cf26-49f5-a30f-e25f7d7e6c61/deploy-status)](https://app.netlify.com/sites/saad-mrabet/deploys)
 
 
+## Dev Card
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/na0495/na0495/blob/master/devcard.svg" width="400" alt="Saad Mrabet's Dev Card"/></a>
