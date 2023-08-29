@@ -23,4 +23,4 @@ and deploy with
 
 ## Dev Card
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/na0495/na0495/blob/master/devcard.svg" width="400" alt="Saad Mrabet's Dev Card"/></a>
+<a href="https://app.daily.dev/na0495"><img src="https://github.com/na0495/na0495/blob/master/devcard.svg" width="400" alt="Saad Mrabet's Dev Card"/></a>
