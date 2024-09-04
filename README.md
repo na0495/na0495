@@ -7,11 +7,12 @@
    <img src="https://komarev.com/ghpvc/?username=na0495&label=Profile%20views&color=0e75b6&style=flat" alt="na0495" />
 </div>
 
-## :boy: My name is Mrabet Saad, and I'm 26 yo Software Engineer & Data Engineer:
-- I have a bachelor's degree in Computer engineering & a master's degree in Big Data & AI.
-- Programming is my fuel of soul.
-- I enjoy being challenged and engaging with projects that require me to work outside my comfort zone and knowledge set <br>
-  as continuing to learn new languages and development techniques.
+## Hello 👋 I'm Saad Mrabet 🥇:
+The co-founder & CTO at KubicBits, a pioneering startup in the AI-driven transportation and logistics SaaS space 🧠💻. As a Moroccan 🇲🇦 tech founder, I’m passionate about using technology to solve complex challenges in the transportation sector.
+
+With a strong foundation in Software Engineering and Big Data & AI 📊🤖, I lead the technical vision at KubicBits, helping transform the way businesses manage their transport operations across Morocco and beyond. 🌍
+
+
 
 
 ## :bookmark_tabs: Here is my portfolio:
