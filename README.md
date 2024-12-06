@@ -17,7 +17,7 @@ With a strong foundation in Software Engineering and Big Data & AI 📊🤖, I l
 
 ## :bookmark_tabs: Here is my portfolio:
 > Build with React & Vite:
-https://saad-mrabet.me/
+[Portfolio](https://saad-mrabet.netlify.app/)
 and deploy with
 [![Netlify Status](https://api.netlify.com/api/v1/badges/77b50415-cf26-49f5-a30f-e25f7d7e6c61/deploy-status)](https://app.netlify.com/sites/saad-mrabet/deploys)
 
